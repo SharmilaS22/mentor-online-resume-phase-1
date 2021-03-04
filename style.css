@@ -1,0 +1,60 @@
+* {
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    padding: 4rem 2rem;
+    text-align: center;
+}
+
+#about {
+    background-color: #f9f3f3;
+}
+#education {
+    background-color: #f7d9d9;
+    text-align: left;
+}
+#skills {
+    background-color: #f9f3f3;
+    text-align: left;
+}
+#contact {
+    background-color: #f7d9d9;
+}
+
+.profile-pic {
+    border-radius: 30px;
+    width: 100px;
+    height: auto;
+}
+
+.edu-details {
+    margin: 10px 0;
+}
+
+.name {
+    text-align: center;
+    font-weight: bold;
+}
+
+.about {
+    text-align: center;
+}
+
+.mb-1 {
+    margin-bottom: 1rem;
+}
+
+.text-center {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
